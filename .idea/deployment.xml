@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ubuntu@172.16.0.139:22">
+    <serverData>
+      <paths name="ubuntu@172.16.0.139:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ubuntu/Documents/CR-DA-DET" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/home/ubuntu/Documents/CR-DA-DET/DA_Faster_ICR_CCR/data" />
+            <excludedPath path="/home/ubuntu/Documents/CR-DA-DET/DA_Faster_ICR_CCR/lib/build" />
+            <excludedPath path="/home/ubuntu/Documents/CR-DA-DET/DA_Faster_ICR_CCR/__pycache__" />
+            <excludedPath path="/home/ubuntu/Documents/CR-DA-DET/DA_Faster_ICR_CCR/output" />
+            <excludedPath path="/home/ubuntu/Documents/CR-DA-DET/DA_Faster_ICR_CCR/logs" />
+            <excludedPath path="/home/ubuntu/Documents/CR-DA-DET/DA_Faster_ICR_CCR/eval/data" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
